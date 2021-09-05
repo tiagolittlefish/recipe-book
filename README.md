@@ -3,4 +3,4 @@
 ## Olá, seja bem ao meu livro de receitas!
 
 - Strogonoff Toperson de flango
-- Pavê pacomê
+- Pavê pacomê (alteração direta no Git)
