@@ -3,4 +3,5 @@
 ## Olá, seja bem ao meu livro de receitas!
 
 - Strogonoff Toperson de flango
-- Pavê pacomê (alteração direta no Git)
+- Pavê pacomê
+- Bolo de cenoura
