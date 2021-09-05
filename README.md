@@ -1,4 +1,17 @@
 # LIVRO DE RECEITAS
 ## OLÁ! Bem vindo ao meu livro de receitas!
-- Strogonoff toperson de frango
+### Strogonoff toperson de flango
 
+#### Ingredientes
+
+- ingrediente1
+- ingrediente2
+- Ingrediente3
+- ingrediente4
+
+#### Modo de preparo
+
+- step1
+- step2
+- step3
+- step4
