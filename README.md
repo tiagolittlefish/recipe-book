@@ -1,6 +1,9 @@
-# LIVRO DE RECEITAS
+# LIVRO DE RECEITAS :book:
+
 ## OLÁ! Bem vindo ao meu livro de receitas!
-### Strogonoff toperson de flango
+### Strogonoff toperson de flango :chicken:
+
+
 
 #### Ingredientes
 
