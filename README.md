@@ -5,3 +5,4 @@
 - Strogonoff Toperson de flango
 - Pavê pacomê
 - Bolo de cenoura
+- Brigadeiro
